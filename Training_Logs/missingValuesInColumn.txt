@@ -1,0 +1,8 @@
+2022-09-26/17:54:23		Missing Values Validation Started!!
+2022-09-26/17:54:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-27/12:23:21		Missing Values Validation Started!!
+2022-09-27/15:14:17		Missing Values Validation Started!!
+2022-09-27/15:28:35		Missing Values Validation Started!!
+2022-09-27/15:43:17		Missing Values Validation Started!!
+2022-09-27/15:48:39		Missing Values Validation Started!!
+2022-09-28/16:15:59		Missing Values Validation Started!!

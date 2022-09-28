@@ -1,0 +1,178 @@
+2022-09-26/14:37:26		Missing Values Validation Started!!
+2022-09-26/14:37:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/14:37:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/14:37:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/14:37:27		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/14:37:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/14:37:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/14:37:29		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/14:37:30		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/14:37:30		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/14:44:15		Missing Values Validation Started!!
+2022-09-26/14:44:15		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/14:44:15		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/14:44:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/14:44:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/14:44:17		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/14:44:17		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/14:44:17		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/14:44:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/14:44:18		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/14:45:21		Missing Values Validation Started!!
+2022-09-26/14:45:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/14:45:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/14:45:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/14:45:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/14:45:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/14:45:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/14:45:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/14:45:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/14:45:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/14:47:23		Missing Values Validation Started!!
+2022-09-26/14:47:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/14:47:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/14:47:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/14:47:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/14:47:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/14:47:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/14:47:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/14:47:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/14:47:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/14:56:55		Missing Values Validation Started!!
+2022-09-26/14:56:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/14:56:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/14:56:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/14:56:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/14:56:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/14:56:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/14:56:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/14:56:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/14:56:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/16:09:20		Missing Values Validation Started!!
+2022-09-26/16:09:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/16:09:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/16:09:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/16:09:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/16:09:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/16:09:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/16:09:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/16:09:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/16:09:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/16:33:47		Missing Values Validation Started!!
+2022-09-26/16:33:47		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/16:33:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/16:33:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/16:33:50		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/16:33:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/16:33:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/16:33:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/16:33:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/16:33:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/16:52:23		Missing Values Validation Started!!
+2022-09-26/16:52:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/16:52:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/16:52:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/16:52:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/16:52:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/16:52:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/16:52:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/16:52:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/16:52:27		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/16:57:58		Missing Values Validation Started!!
+2022-09-26/16:57:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/16:57:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/16:57:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/16:57:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/16:57:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/16:57:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/16:58:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/16:58:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/16:58:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:01:33		Missing Values Validation Started!!
+2022-09-26/17:01:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:01:34		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:01:34		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:01:34		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:01:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:01:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:01:36		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:01:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:01:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:15:37		Missing Values Validation Started!!
+2022-09-26/17:15:37		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:15:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:15:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:15:38		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:15:39		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:15:39		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:15:40		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:15:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:15:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:17:55		Missing Values Validation Started!!
+2022-09-26/17:17:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:17:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:17:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:17:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:17:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:17:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:17:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:18:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:18:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:38:04		Missing Values Validation Started!!
+2022-09-26/17:38:05		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:38:05		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:38:05		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:38:06		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:38:06		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:38:06		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:38:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:38:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:38:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:42:47		Missing Values Validation Started!!
+2022-09-26/17:42:47		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:42:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:42:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:42:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:42:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:42:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:42:50		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:42:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:42:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:45:00		Missing Values Validation Started!!
+2022-09-26/17:45:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:45:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:45:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:45:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:45:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:45:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:45:02		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:45:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:45:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/17:58:06		Missing Values Validation Started!!
+2022-09-26/17:58:06		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/17:58:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/17:58:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/17:58:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/17:58:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/17:58:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/17:58:09		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/17:58:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/17:58:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/18:32:55		Missing Values Validation Started!!
+2022-09-26/18:32:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_07012020_041011.csv
+2022-09-26/18:32:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_13012020_141000.csv
+2022-09-26/18:32:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_14012020_113045.csv
+2022-09-26/18:32:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_20012020_090819.csv
+2022-09-26/18:32:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_22022020_041119.csv
+2022-09-26/18:32:57		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_23012020_011008.csv
+2022-09-26/18:32:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_28012020_051011.csv
+2022-09-26/18:32:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_29012020_060756.csv
+2022-09-26/18:32:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: NPAac_31012020_090811.csv
+2022-09-26/19:28:58		Missing Values Validation Started!!
+2022-09-27/11:22:08		Missing Values Validation Started!!
+2022-09-28/16:57:19		Missing Values Validation Started!!
+2022-09-28/17:27:07		Missing Values Validation Started!!
+2022-09-28/18:15:22		Missing Values Validation Started!!
+2022-09-28/20:50:36		Missing Values Validation Started!!
+2022-09-29/04:16:36		Missing Values Validation Started!!
+2022-09-29/04:31:52		Missing Values Validation Started!!
