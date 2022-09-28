@@ -1,4 +1,4 @@
-## Potential NPA Accounts Prediction
+## NPA Accounts Prediction
 
 #### Problem Statement:
    
@@ -214,28 +214,3 @@ git push
 
 ## #docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-     
-    
-     
-    
